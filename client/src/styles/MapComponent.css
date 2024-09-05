@@ -2,7 +2,7 @@
 
 .map-container {
     position: relative;
-
+    transform: translateY(-50px);
   }
   
   /* Styling for tooltip */
